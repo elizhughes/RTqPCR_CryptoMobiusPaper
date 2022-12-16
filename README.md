@@ -3,17 +3,17 @@ This repo analyses RTQPCR data for Laura Tuck's Crypto Mobius paper. It will sho
 
 RTqPCR of WT, Gat201 deletion, Complemented clones C26 and C30. Genes tested Gat201, Gat204 and Liv3. 3 reference genes.
 
-This experiment was set up to show the complementation ofnative Gat201 into SH4 in the Madahani GAT201 deleition strain.
+This experiment was set up to show the complementation of native Gat201 into SH4 in the Madahani GAT201 deletion strain.
 
 Strains: 
 KN99-alpha (KNa), Madhani-Gat201 deletion mutant (M-Gat201) and 2 Gat201 complemented strains (into Madhani-Gat201 deletion strain) C26 and C30.
 
 Culture conditions:
 Set up overnight cultures from a single colony in YPD at 30 degrees, 150rpm, 3 biological replicates.
-Cultures were set up in 20 ml RPMI at an OD of 0.1 from the ON culture. Cell were washed with RPMI prior to testing the OD and setting up cultures in RPMI. Cultures were incubated at 37 degrees, 150rpm for 7 hours.
+Cultures were set up in 20 ml RPMI at an OD of 0.1 from the ON culture. Cell were washed with RPMI prior to testing the OD and setting up cultures in RPMI. Cultures were incubated at 37 degrees, 150rpm for 5 hours.
 
 Sample collection: 
-19 ml Samples were collected at 7 hours. Samples were fixed in methanol on dry ice for 3-5 mins. My Cryptococcus RNA extraction protocol was followed to isolate RNA from samples.
+19 ml Samples were collected at 5 hours. Samples were fixed in methanol on dry ice for 3-5 mins. My Cryptococcus RNA extraction protocol was followed to isolate RNA from samples.
 
 Replicates:
 3 biological replicates were collected for each sample.
