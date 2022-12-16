@@ -28,7 +28,7 @@ TSA3 CNAG_06917 (Set 1)
 Plate 2: 
 BLP1  CNAG_06346
 Meu1  CNAG_00165
-MEP1  CNAG+04735
+MEP1  CNAG_04735
 
 
 Reference gene primers for both plates: 
