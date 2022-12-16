@@ -22,15 +22,17 @@ Replicates:
 Test Primers:
 Plate 1:
 Gat201 CNAG_01551 (set 1)
-Gat204 CNAG_06762 (Set 1)
-Liv 3 CNAG_05835 (Set 1)
+PDR802 CNAG_03894 (Set 1)
+TSA3 CNAG_06917 (Set 1)
 
 Plate 2: 
-
+BLP1  CNAG_06346
+Meu1  CNAG_00165
+MEP1  CNAG+04735
 
 
 Reference gene primers for both plates: 
-CNAG_04994 (SRP14)
-CNAG_00483 (ACT1)
-CNAG_00121 (GDP1)
+SRP14  CNAG_04994 
+ACT1  CNAG_00483 (Set 1) 
+GDP1  CNAG_00121 (Set 11)
 
