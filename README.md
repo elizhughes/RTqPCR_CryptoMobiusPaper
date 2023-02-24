@@ -1,12 +1,13 @@
 # RTqPCR_CryptoMobiusPaper
-This experiment was set up to examine the expression of Gat201 in different strains grown under the same conditions.
+
+This experiment was set up to examine the expression of Gat201 and some Gat201 target genes in different strains grown under the same conditions.
 
 RTqPCR of WT, Gat201 deletion, Complemented clones C26 and C30. 
 
-This experiment was set up to show the complementation of native Gat201 into SH4 in the Madahani GAT201 deletion strain.
+This experiment was set up to show the complementation of native Gat201 into SH4 in the Madahani GAT201 deletion strain (C26 and C30).
 
 Strains: 
-KN99-alpha (KNa), Madhani-Gat201 deletion mutant (M-Gat201) and 2 Gat201 complemented strains (into Madhani-Gat201 deletion strain) C26 and C30.
+H99, KN99-alpha, Madhani Gat201 deletion mutant, and 2 Gat201 complemented strains (into Madhani-Gat201 deletion strain) C26 and C30.
 
 Culture conditions:
 Set up overnight cultures from a single colony in YPD at 30 degrees, 150rpm, 3 biological replicates.
@@ -35,8 +36,3 @@ Reference gene primers for both plates:
 SRP14 CNAG_04994 (Set 5)
 ACT1  CNAG_00483 (Set 5) 
 GPD  CNAG_00121 (Set 5)
-
-
-
-
-
